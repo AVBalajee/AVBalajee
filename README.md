@@ -11,7 +11,7 @@
   </em>
 </p>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/balajeeav)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVBalajee)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://balajee-av.netlify.app)
 [![Author](https://img.shields.io/badge/Author-Balajee%20A%20V-red)](https://www.linkedin.com/in/balajeevg-techclog/)
 
