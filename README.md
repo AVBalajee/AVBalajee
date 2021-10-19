@@ -1,13 +1,13 @@
-<h1 align="center"><img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Assets/Earth.gif" width="24px"> 
+<h1 align="center"><img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Earth.gif" width="24px"> 
 <br>
-  <h1 align="center">I'm <a href="https://balajee-av.netlify.app/">Balajee A V</a>  <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Assets/Developer.gif" width="80px">
+  <h1 align="center">I'm <a href="https://balajee-av.netlify.app/">Balajee A V</a>  <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Developer.gif" width="80px">
 </h1>
 
 <p align="center">
   <em>
     <br><b> I'm an engineer</b>
-    enriching in the field of <b>Data Science & Web Development</b> and growing into an <b>open source contributor </b> <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Assets/Rocket.gif" width="18px">and a
-    <b>developer</b> <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    enriching in the field of <b>Data Science & Web Development</b> and growing into an <b>open source contributor </b> <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Rocket.gif" width="18px">and a
+    <b>developer</b> <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Medal.gif" width="20px">&nbsp.
   </em>
 </p>
 
@@ -20,7 +20,7 @@
 - 🥅Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I used to listen music in free time.
 
-## Connect with me <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Assets/Handshake.gif" height="32px">
+## Connect with me <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Handshake.gif" height="32px">
 
 [<img align="left" alt="Balajee A V | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Balajee A V | Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "/>][gmail]
