@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Earth.gif" width="24px"> 
 <br>
-  <h1 align="center">I'm <a href="https://balajee-av.netlify.app/">Balajee A V</a>  <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Developer.gif" width="80px">
+  <h1 align="center">I'm <a href="https://avbalajee.github.io/hi/">Balajee A V</a>  <img src="https://github.com/balajeeav/Balajee-A-V-/blob/master/Developer.gif" width="80px">
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVBalajee)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://balajee-av.netlify.app)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://avbalajee.github.io/hi)
 [![Author](https://img.shields.io/badge/Author-Balajee%20A%20V-red)](https://www.linkedin.com/in/balajeevg-techclog/)
 
 - <a href="https://github.com/balajeeav"> Shifted from this Account </a>
