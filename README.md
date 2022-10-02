@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Earth.gif" width="24px"> 
+<h1 align="center"><img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Hi.gif" width="30px">   𝐇i and Welcome to my profile ! <img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Earth.gif" width="24px"> 
 <br>
   <h1 align="center">I'm <a href="https://avbalajee.github.io/welcome/">Balajee A V</a>  <img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Developer.gif" width="80px">
 </h1>
