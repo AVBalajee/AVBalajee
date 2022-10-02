@@ -12,7 +12,7 @@
 </p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVBalajee)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://avbalajee.github.io/hi)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://avbalajee.github.io/welcome)
 [![Author](https://img.shields.io/badge/Author-Balajee%20A%20V-red)](https://www.linkedin.com/in/balajeevg-techclog/)
 
 - <a href="https://github.com/balajeeav"> Shifted from this Account </a>
