@@ -28,9 +28,16 @@
 <br />
 
 ## Profile Stats
-[![Balajee's GitHub stats](https://github-readme-stats.vercel.app/api?username=AVBalajee)](https://github.com/AVBalajee/github-readme-stats)
 
-## Languages and Tools:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AVBalajee&show_icons=true&theme=radical"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AVBalajee&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
+
+<p align="center">
+<a href="https://github.com/AVBalajee/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVBalajee&layout=compact&theme=radical">
+</a>
+
+## Working IDE's & Technologies:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -48,7 +55,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  
 
 <br />
 <br />
