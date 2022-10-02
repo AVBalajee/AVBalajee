@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Hi.gif" width="30px">   𝐇i and Welcome to my profile ! <img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Earth.gif" width="24px"> 
+<h1 align="center"><img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Hi.gif" width="30px">   𝑯𝒊 𝒂𝒏𝒅 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 ! <img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Earth.gif" width="24px"> 
 <br>
-  <h1 align="center">I'm <a href="https://avbalajee.github.io/welcome/">Balajee A V</a>  <img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Developer.gif" width="80px">
+  <h1 align="center">𝓘'𝓶 <a href="https://avbalajee.github.io/welcome/">𝑩𝒂𝒍𝒂𝒋𝒆𝒆</a>  <img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Developer.gif" width="80px">
 </h1>
 
 <p align="center">
@@ -15,10 +15,10 @@
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://avbalajee.github.io/welcome)
 [![Author](https://img.shields.io/badge/Author-Balajee%20A%20V-red)](https://www.linkedin.com/in/balajeevg-techclog/)
 
-- <a href="https://github.com/balajeeav"> Shifted from this Account </a>
-- 🌱 I’m currently learning Pen testing and Ethical Hacking.
-- 🥅Goals: Contribute more to Open Source projects.
-- ⚡ Hobby: I used to listen music in free time.
+- 😇 This is my <a href="https://github.com/balajeeav"> 𝑶𝒍𝒅 𝑨𝒄𝒄𝒐𝒖𝒏𝒕 </a>
+- 🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐞𝐧 𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝐚𝐧𝐝 𝐄𝐭𝐡𝐢𝐜𝐚𝐥 𝐇𝐚𝐜𝐤𝐢𝐧𝐠.
+- 🥅Goals: 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐚𝐧𝐝 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐢𝐧 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
+- ⚡ Motto : 𝐁𝐫𝐢𝐧𝐠𝐢𝐧𝐠 𝐦𝐲 𝐛𝐞𝐬𝐭 𝐞𝐯𝐞𝐫𝐲 𝐝𝐚𝐲 
 
 ## Connect with me <img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Handshake.gif" height="32px">
 
