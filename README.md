@@ -18,7 +18,7 @@
 - <a href="https://github.com/balajeeav"> Shifted from this Account </a>
 - 🌱 I’m currently learning Pen testing and Ethical Hacking.
 - 🥅Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I used to listen music in free time.
+- ⚡ Hobby: I used to listen music in free time.
 
 ## Connect with me <img src="https://github.com/AVBalajee/balajeeav.github.io/blob/master/images/Handshake.gif" height="32px">
 
