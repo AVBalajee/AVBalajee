@@ -12,7 +12,7 @@
 </p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVBalajee)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Offline-red)](https://avbalajee.github.io/welcome)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-Green)](https://avbalajee.github.io/welcome)
 [![Author](https://img.shields.io/badge/Author-Balajee%20A%20V-red)](https://www.linkedin.com/in/balajeevg-techclog/)
 
 - 😇 This is my <a href="https://github.com/balajeeav"> 𝑶𝒍𝒅 𝑨𝒄𝒄𝒐𝒖𝒏𝒕 </a>
