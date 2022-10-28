@@ -29,13 +29,11 @@
 
 ## Profile Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AVBalajee&show_icons=true&theme=radical"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AVBalajee&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
-
-<p align="center">
-<a href="https://github.com/AVBalajee/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVBalajee&layout=compact&theme=radical">
-</a>
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVBalajee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajeeav&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+</p>
+  
 ## Working IDE's & Technologies:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
