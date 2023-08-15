@@ -31,9 +31,8 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVBalajee&show_icons=true&theme=radical)" />
-</p>
-<p>
-  <img height="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVBalajee&langs_count=8" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVBalajee&langs_count=4" />
 </p>
   
 ## Working Technologies & Libraries:
