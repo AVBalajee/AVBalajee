@@ -62,29 +62,34 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=AVBalajee&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Balajee GitHub stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVBalajee&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Top languages"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AVBalajee&theme=tokyonight"
+        alt="Top languages by repo"
+      />
+    </td>
+    <td align="center" valign="top">
+      <img
+        src="https://streak-stats.demolab.com?user=AVBalajee&theme=tokyonight&hide_border=true"
+        alt="GitHub streak stats"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AVBalajee&theme=tokyonight"
+        alt="GitHub profile details"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AVBalajee&theme=tokyo-night&hide_border=true"
-    alt="GitHub activity graph"
-  />
-</p>
 
----
 ## 🛠 Tech Stack
 
 <p align="center">
