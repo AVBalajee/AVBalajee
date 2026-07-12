@@ -1,0 +1,35 @@
+<svg width="900" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="900" height="60" rx="10"/>
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="900" height="60" fill="url(#tbg)" rx="10" stroke="#1F2937" stroke-width="1"/>
+  <g clip-path="url(#clip)">
+    <text x="0" y="36.0" font-family="JetBrains Mono, monospace" font-size="16" font-weight="bold" fill="#00FF9C" xml:space="preserve">
+      <tspan>  JAVA ▲ +12.4%    SPRING-BOOT ▲ +9.1%    KAFKA ▲ +7.8%    REDIS ▲ +5.3%    POSTGRESQL ▲ +6.0%    MICROSERVICES ▲ +8.9%    DOCKER ▲ +4.2%    SYSTEM-DESIGN ▲ +3.1%    REACT ▲ +2.6%    PYTHON ▲ +5.9%    BANKING-DOMAIN ▲ +14.2%    TRADE-FINANCE ▲ +11.5%     JAVA ▲ +12.4%    SPRING-BOOT ▲ +9.1%    KAFKA ▲ +7.8%    REDIS ▲ +5.3%    POSTGRESQL ▲ +6.0%    MICROSERVICES ▲ +8.9%    DOCKER ▲ +4.2%    SYSTEM-DESIGN ▲ +3.1%    REACT ▲ +2.6%    PYTHON ▲ +5.9%    BANKING-DOMAIN ▲ +14.2%    TRADE-FINANCE ▲ +11.5%  </tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="900 0" to="-900 0" dur="18s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="0" y="0" width="40" height="60" fill="url(#fadeL)"/>
+  <defs>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect x="860" y="0" width="40" height="60" fill="url(#fadeR)"/>
+  <text x="10" y="16" font-family="JetBrains Mono, monospace" font-size="9" fill="#5B6B7C">LIVE</text>
+  <circle cx="34" cy="12" r="4" fill="#FF4757">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

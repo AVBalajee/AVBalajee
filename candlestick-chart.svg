@@ -1,0 +1,183 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="900" height="420" fill="url(#bg)" rx="14"/>
+
+  <line x1="50" y1="40.0" x2="870" y2="40.0" stroke="#1F2937" stroke-width="1" stroke-dasharray="2,4"/>
+  <text x="42" y="44.0" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="11" fill="#5B6B7C">74</text>
+  <line x1="50" y1="120.0" x2="870" y2="120.0" stroke="#1F2937" stroke-width="1" stroke-dasharray="2,4"/>
+  <text x="42" y="124.0" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="11" fill="#5B6B7C">65</text>
+  <line x1="50" y1="200.0" x2="870" y2="200.0" stroke="#1F2937" stroke-width="1" stroke-dasharray="2,4"/>
+  <text x="42" y="204.0" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="11" fill="#5B6B7C">56</text>
+  <line x1="50" y1="280.0" x2="870" y2="280.0" stroke="#1F2937" stroke-width="1" stroke-dasharray="2,4"/>
+  <text x="42" y="284.0" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="11" fill="#5B6B7C">47</text>
+  <line x1="50" y1="360.0" x2="870" y2="360.0" stroke="#1F2937" stroke-width="1" stroke-dasharray="2,4"/>
+  <text x="42" y="364.0" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="11" fill="#5B6B7C">39</text>
+  <text x="50" y="24" font-family="JetBrains Mono, monospace" font-size="15" fill="#00FF9C" font-weight="bold">$BALAJEE -- CAREER GROWTH INDEX</text>
+  <text x="870" y="24" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="12" fill="#8B98A5">3Y CHART . UPTREND</text>
+
+  <polyline points="75.6,322.6 126.9,331.7 178.1,285.5 229.4,310.6 280.6,335.9 331.9,318.4 383.1,279.1 434.4,249.0 485.6,197.5 536.9,217.0 588.1,177.9 639.4,125.1 690.6,84.1 741.9,64.0 793.1,72.7 844.4,81.0" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+    stroke-dasharray="923" stroke-dashoffset="923">
+    <animate attributeName="stroke-dashoffset" from="923" to="0" dur="2.4s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </polyline>
+
+  <g>
+    <line x1="75.6" y1="317.3" x2="75.6" y2="360.0" stroke="#00FF9C" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.10s" fill="freeze"/>
+    </line>
+    <rect x="61.5" y="347.8" width="28.2" height="0" fill="#00FF9C" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="347.8" to="322.6" dur="0.5s" begin="0.10s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="25.3" dur="0.5s" begin="0.10s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="126.9" y1="297.7" x2="126.9" y2="354.9" stroke="#FF4757" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.15s" fill="freeze"/>
+    </line>
+    <rect x="112.8" y="331.7" width="28.2" height="0" fill="#FF4757" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="331.7" to="322.6" dur="0.5s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="9.1" dur="0.5s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="178.1" y1="278.5" x2="178.1" y2="347.9" stroke="#00FF9C" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.20s" fill="freeze"/>
+    </line>
+    <rect x="164.0" y="331.7" width="28.2" height="0" fill="#00FF9C" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="331.7" to="285.5" dur="0.5s" begin="0.20s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="46.1" dur="0.5s" begin="0.20s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="229.4" y1="274.9" x2="229.4" y2="329.1" stroke="#FF4757" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.25s" fill="freeze"/>
+    </line>
+    <rect x="215.3" y="310.6" width="28.2" height="0" fill="#FF4757" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="310.6" to="285.5" dur="0.5s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="25.1" dur="0.5s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="280.6" y1="300.5" x2="280.6" y2="358.4" stroke="#FF4757" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.30s" fill="freeze"/>
+    </line>
+    <rect x="266.5" y="335.9" width="28.2" height="0" fill="#FF4757" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="335.9" to="310.6" dur="0.5s" begin="0.30s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="25.3" dur="0.5s" begin="0.30s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="331.9" y1="307.8" x2="331.9" y2="356.7" stroke="#00FF9C" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.35s" fill="freeze"/>
+    </line>
+    <rect x="317.8" y="335.9" width="28.2" height="0" fill="#00FF9C" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="335.9" to="318.4" dur="0.5s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="17.5" dur="0.5s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="383.1" y1="274.4" x2="383.1" y2="345.2" stroke="#00FF9C" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.40s" fill="freeze"/>
+    </line>
+    <rect x="369.0" y="318.4" width="28.2" height="0" fill="#00FF9C" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="318.4" to="279.1" dur="0.5s" begin="0.40s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="39.3" dur="0.5s" begin="0.40s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="434.4" y1="235.1" x2="434.4" y2="288.0" stroke="#00FF9C" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.45s" fill="freeze"/>
+    </line>
+    <rect x="420.3" y="279.1" width="28.2" height="0" fill="#00FF9C" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="279.1" to="249.0" dur="0.5s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="30.1" dur="0.5s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="485.6" y1="183.6" x2="485.6" y2="256.1" stroke="#00FF9C" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.50s" fill="freeze"/>
+    </line>
+    <rect x="471.5" y="249.0" width="28.2" height="0" fill="#00FF9C" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="249.0" to="197.5" dur="0.5s" begin="0.50s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="51.5" dur="0.5s" begin="0.50s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="536.9" y1="169.6" x2="536.9" y2="238.2" stroke="#FF4757" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.55s" fill="freeze"/>
+    </line>
+    <rect x="522.8" y="217.0" width="28.2" height="0" fill="#FF4757" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="217.0" to="197.5" dur="0.5s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="19.5" dur="0.5s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="588.1" y1="153.2" x2="588.1" y2="236.4" stroke="#00FF9C" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.60s" fill="freeze"/>
+    </line>
+    <rect x="574.0" y="217.0" width="28.2" height="0" fill="#00FF9C" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="217.0" to="177.9" dur="0.5s" begin="0.60s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="39.1" dur="0.5s" begin="0.60s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="639.4" y1="110.1" x2="639.4" y2="197.7" stroke="#00FF9C" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.65s" fill="freeze"/>
+    </line>
+    <rect x="625.3" y="177.9" width="28.2" height="0" fill="#00FF9C" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="177.9" to="125.1" dur="0.5s" begin="0.65s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="52.8" dur="0.5s" begin="0.65s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="690.6" y1="62.5" x2="690.6" y2="153.4" stroke="#00FF9C" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.70s" fill="freeze"/>
+    </line>
+    <rect x="676.5" y="125.1" width="28.2" height="0" fill="#00FF9C" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="125.1" to="84.1" dur="0.5s" begin="0.70s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="41.0" dur="0.5s" begin="0.70s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="741.9" y1="40.0" x2="741.9" y2="90.0" stroke="#00FF9C" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.75s" fill="freeze"/>
+    </line>
+    <rect x="727.8" y="84.1" width="28.2" height="0" fill="#00FF9C" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="84.1" to="64.0" dur="0.5s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="20.1" dur="0.5s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="793.1" y1="51.4" x2="793.1" y2="79.5" stroke="#FF4757" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.80s" fill="freeze"/>
+    </line>
+    <rect x="779.0" y="72.7" width="28.2" height="0" fill="#FF4757" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="72.7" to="64.0" dur="0.5s" begin="0.80s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="8.7" dur="0.5s" begin="0.80s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <g>
+    <line x1="844.4" y1="65.3" x2="844.4" y2="93.2" stroke="#FF4757" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.85s" fill="freeze"/>
+    </line>
+    <rect x="830.3" y="81.0" width="28.2" height="0" fill="#FF4757" rx="1.5" opacity="0.95">
+      <animate attributeName="y" from="81.0" to="72.7" dur="0.5s" begin="0.85s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      <animate attributeName="height" from="0" to="8.3" dur="0.5s" begin="0.85s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </rect>
+  </g>
+  <circle cx="844.4" cy="81.0" r="5" fill="#38BDF8">
+    <animate attributeName="r" values="4;8;4" dur="1.6s" repeatCount="indefinite" begin="2.4s"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite" begin="2.4s"/>
+  </circle>
+
+  <text x="75.6" y="380" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" fill="#5B6B7C">Y1-Q1</text>
+  <text x="229.4" y="380" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" fill="#5B6B7C">Y1-Q4</text>
+  <text x="383.1" y="380" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" fill="#5B6B7C">Y2-Q3</text>
+  <text x="536.9" y="380" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" fill="#5B6B7C">Y3-Q2</text>
+  <text x="690.6" y="380" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" fill="#5B6B7C">Now+1</text>
+  <text x="844.4" y="380" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" fill="#5B6B7C">Now</text>
+</svg>
