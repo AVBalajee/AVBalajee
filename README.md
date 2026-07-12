@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=BALAJEE%20A%20V&fontSize=55&fontColor=00FF9C&fontAlignY=38&animation=fadeIn&desc=NSE:%20DEV%20%7C%20Java%20Backend%20%C2%B7%20Trade%20Finance%20%C2%B7%20FinTech%20Systems&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=900&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+STATSU+OPEN+%7C+SESSION%3A+BACKEND-ENGINEERING;%3E+TICKER%3A+%24JAVA+%2B12.4%25+%7C+%24SPRINGBOOT+%2B9.1%25;%3E+LOADING+PORTFOLIO...+3+YOE+%7C+CORE+BANKING+%2F+TRADE+FINANCE;%3E+STRATEGY%3A+CLEAN+CODE+%2B+SCALABLE+SYSTEMS+%3D+COMPOUND+GROWTH" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=900&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+STATUS+OPEN+%7C+SESSION%3A+BACKEND-ENGINEERING;%3E+TICKER%3A+%24JAVA+%2B12.4%25+%7C+%24SPRINGBOOT+%2B9.1%25;%3E+LOADING+PORTFOLIO...+3+YOE+%7C+CORE+BANKING+%2F+TRADE+FINANCE;%3E+STRATEGY%3A+CLEAN+CODE+%2B+SCALABLE+SYSTEMS+%3D+COMPOUND+GROWTH" alt="Typing SVG" />
 
 <br><br>
 
