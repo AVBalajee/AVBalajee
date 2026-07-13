@@ -22,7 +22,6 @@
 name:        Balajee A V
 role:        Java Backend Engineer @ TCS BaNCS
 desk:        Core Banking · Trade Finance · Payments
-clients:     Deutsche Bank | Burgan Bank | Khan Bank | TJSB
 experience:  3 YOE (and compounding)
 status:      🟢 OPEN TO OPPORTUNITIES
 strategy:    Ship. Learn in public. Document everything.
